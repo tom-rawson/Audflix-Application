@@ -45,6 +45,7 @@ The marketing strategy emphasizes the convenience and accuracy of the system’s
 
 ## Contributors
 - **Chukwuka Onwubolu** - Developer
+- **Tom Rawson** - Lead Engineer
 
 ## License
 This project is licensed under the MIT License.
